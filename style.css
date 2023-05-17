@@ -1,0 +1,19 @@
+.form-control {
+  background-color: white;
+}
+
+.logo {
+  width: 60px;
+}
+
+.promotion {
+  color: rgb(194, 253, 57);
+}
+
+.promotionImg {
+  width: 70px;
+}
+
+.bg-success {
+  background-color: rgb(158, 192, 9) !important;
+}
