@@ -17,3 +17,11 @@
 .banner {
   background-color: rgb(158, 192, 9) !important;
 }
+
+.imgTS {
+  height: 400px;
+}
+
+.strip {
+  background-color: rgb(206, 166, 34);
+}
